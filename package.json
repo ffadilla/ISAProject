@@ -9,6 +9,8 @@
   "author": "ffadilla",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.0.2"
+    "@4tw/cypress-drag-drop": "^1.3.1",
+    "cypress": "^4.0.2",
+    "cypress-file-upload": "^3.5.3"
   }
 }
